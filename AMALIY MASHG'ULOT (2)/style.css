@@ -1,0 +1,215 @@
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+        /* 1-BO'LIM */
+
+.biz {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url(./biznes-plan.jpg);
+    background-size: 100% auto;
+    background-position: center;
+    color: rgb(0, 0, 0);
+}
+
+.lorem20 {
+    margin: 20px 2px;
+}
+
+.get {
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 25px;
+    padding: 10px;
+    color: rgb(242, 255, 0);
+}
+
+.get:hover {
+    background-color: rgb(242, 255, 0);
+    border: rgb(242, 255, 0);
+    color: red;
+    padding: 12px;
+    transition: 0.3s;
+}
+
+.lorem50 {
+}
+
+.team {
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
+
+.ism {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Bosh {
+    width: 150px;
+}
+
+.sharf {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: rgb(255, 0, 0);
+    color: whitesmoke;
+}
+
+.sharf:hover {
+    padding: 8px;
+    transition: 0.5s;
+}
+
+.ul {
+    display: flex;
+}
+
+.li {
+    margin: 1px;
+}
+
+.photo {
+    width: 20px;
+    margin-right: -15px;
+}
+
+.nav {
+    margin-left: 200px;
+}
+
+.giv {
+    margin-right: 200px;
+}
+
+.pro {
+    margin-left: -10px
+}
+
+        /* 2-bo'lim */
+
+.pricing {
+    margin-left: 600px;
+}
+
+.x {
+    width: 10px;
+    height: 15px;
+}
+
+.notogri {
+    display: flex;
+    margin-top: -20px;
+}
+
+.qator {
+    border: 1px solid #555;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+
+.qator:hover {
+    padding: 8px;
+    transition: 0.3s;
+}
+
+.ket {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.K {
+    margin-left: 200px;
+}
+
+.A {
+    margin-right: 200px;
+}
+
+.G {
+    margin-left: 0;
+    padding: 10px 90px;
+}
+
+.G:hover {
+    padding: 10px 90px;
+}
+
+        /* 3-BO'LIM */
+
+.contact {
+    margin-left: 600px;
+}
+
+.email {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.uch {
+    width: 50px;
+}
+
+.ne {
+    display: flex;
+    align-items: center;
+}
+
+.tel {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    margin-left: 100px;
+}
+
+.qol {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    margin-right: 100px;
+}
+
+.sal {
+    display: flex;
+}
+
+.inpu {
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.input {
+    width: 550px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+
+.ur {
+    margin-left: 20px;
+}
+    
+.inp {
+    width: 550px;
+    height: 250px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
